@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Titillium+Web");
+@import url("https://fonts.google.com/specimen/Oxanium");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* font-family: "Titillium Web", sans-serif; */
+}
